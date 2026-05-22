@@ -46,19 +46,25 @@ real-time-crypto-dashboard/
 
 ## Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## KPI Section
-
-![KPI](screenshots/kpi.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ---
 
 ## Charts Section
 
-![Charts](screenshots/chart.png)
+![Charts](screenshots/Chart.png)
+
+---
+
+## Report Section
+
+![Report](screenshots/Report.png)
+
+---
+
+## Trends Section
+
+![Trends](screenshots/Trend_Analysis.png)
 
 ---
 
@@ -66,7 +72,7 @@ real-time-crypto-dashboard/
 
 ## Clone Repository
 
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/aryan4505/Real-Time-Cryptocurrency-Dashboard
 
 ---
 
@@ -85,12 +91,6 @@ pip install -r requirements.txt
 ## Run Application
 
 streamlit run app.py
-
----
-
-# 🌐 Live Demo
-
-Add your Streamlit deployment link here.
 
 ---
 
